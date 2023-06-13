@@ -60,4 +60,5 @@ Author:`
 ### __9. На внешнем репозитории сделать Pull Request ветки CheckLists в main.__ 
 На вебе  - *Открыть* [GitHub](https://github.com)  войти в нужный репозиторий, нажать __Compare & pull request__ возле ветки __CheckList__ затем нажать __Create pull request__ ,__Merge pull request__,__Confirm merge__
 ### __10. Синхронизировать Внешнюю и Локальную ветки Main.__ 
-
+`git checkout main` 
+`git pull`
