@@ -1,0 +1,16 @@
+ID: 123
+Severity:
+Priority:
+Status:
+Title:
+Project:
+Step 1.
+Step 2.
+OS:
+Browser:
+Component:
+Actual result:
+Expected result:
+Attachments:
+Author:
+
